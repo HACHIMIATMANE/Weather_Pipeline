@@ -1,0 +1,4 @@
+pandas
+os
+sqlite3
+numpy
